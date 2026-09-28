@@ -2,3 +2,4 @@ Funcionalidades do Sistema:
 1. Cadastro de novos alunos
 2. Consulta de notas e frequencia
 3. Emissao de boletim escolar
+4. Agendamento de reunioes com responsaveis
